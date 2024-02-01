@@ -1,2 +1,2 @@
 # cravings
-A Web app for Code-chef DEVSOC '23
+A Web app that can help you order food from night mess.
